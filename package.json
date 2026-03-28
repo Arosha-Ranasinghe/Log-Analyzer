@@ -1,0 +1,30 @@
+{
+  "name": "log-analyzer",
+  "version": "1.0.0",
+  "description": "A Node.js log analyzer and anomaly detector for security professionals",
+  "main": "index.js",
+  "bin": {
+    "log-analyzer": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test:access": "node index.js samples/access.log",
+    "test:auth": "node index.js samples/auth.log",
+    "test:json": "node index.js samples/access.log --json"
+  },
+  "keywords": [
+    "security",
+    "log-analyzer",
+    "anomaly-detection",
+    "cybersecurity",
+    "nodejs",
+    "siem",
+    "brute-force",
+    "intrusion-detection"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

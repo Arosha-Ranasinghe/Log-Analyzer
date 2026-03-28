@@ -1,0 +1,6 @@
+node_modules/
+*.log
+!samples/*.log
+report.txt
+report.json
+.DS_Store

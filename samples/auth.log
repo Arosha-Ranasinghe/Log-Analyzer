@@ -1,0 +1,20 @@
+Oct 10 13:55:01 server sshd[1234]: Failed password for root from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:02 server sshd[1234]: Failed password for root from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:03 server sshd[1234]: Failed password for root from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:04 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:05 server sshd[1234]: Failed password for admin from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:06 server sshd[1234]: Failed password for ubuntu from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:07 server sshd[1234]: Failed password for ubuntu from 192.168.1.50 port 22 ssh2
+Oct 10 13:55:08 server sshd[1234]: Invalid user oracle from 10.0.0.99 port 22
+Oct 10 13:55:09 server sshd[1234]: Invalid user pi from 10.0.0.99 port 22
+Oct 10 13:55:10 server sshd[1234]: Invalid user test from 10.0.0.99 port 22
+Oct 10 13:55:11 server sshd[1234]: Invalid user guest from 10.0.0.99 port 22
+Oct 10 13:56:00 server sshd[1234]: Accepted password for deploy from 203.0.113.10 port 22 ssh2
+Oct 10 13:56:01 server sshd[1234]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Oct 10 14:00:00 server sudo[5678]: alice : TTY=pts/0 ; PWD=/home/alice ; USER=root ; COMMAND=/bin/bash
+Oct 10 14:05:00 server sshd[1234]: Failed password for root from 192.168.1.51 port 22 ssh2
+Oct 10 14:05:01 server sshd[1234]: Failed password for root from 192.168.1.51 port 22 ssh2
+Oct 10 14:05:02 server sshd[1234]: Failed password for root from 192.168.1.51 port 22 ssh2
+Oct 10 02:00:00 server sshd[1234]: Failed password for root from 172.16.0.1 port 22 ssh2
+Oct 10 02:00:01 server sshd[1234]: Failed password for root from 172.16.0.1 port 22 ssh2
+Oct 10 03:30:00 server cron[9999]: pam_unix(cron:session): session opened for user root by (uid=0)
