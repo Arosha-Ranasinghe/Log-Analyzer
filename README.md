@@ -1,6 +1,6 @@
 # 🔍 Log Analyzer & Anomaly Detector
 
-A powerful, zero-dependency Node.js tool that parses server logs and detects security anomalies — brute force attacks, SQL injections, XSS attempts, path traversals, and more.
+A powerful, zero-dependency Node.js tool that parses server logs and detects security anomalies - brute force attacks, SQL injections, XSS attempts, path traversals, and more.
 
 ---
 
