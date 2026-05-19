@@ -152,8 +152,3 @@ log-analyzer/
 
 This tool is intended for **defensive security**, log analysis, and educational purposes only. Only use it on systems you own or have explicit permission to analyze.
 
----
-
-## 📄 License
-
-MIT © Your Name
